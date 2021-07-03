@@ -1,0 +1,11 @@
+ .container h1 {
+  -webkit-background-clip: text;
+  transition: all 3s;
+  padding: 20px;
+}
+#line {
+    padding:20;
+    border-width:2px;
+    border-style:solid ;
+    border-color:#ccaacc;
+}
